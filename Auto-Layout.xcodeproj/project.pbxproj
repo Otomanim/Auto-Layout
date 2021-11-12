@@ -104,11 +104,11 @@
 				3F4865E3273F0F7200E64659 /* AppDelegate.swift */,
 				3F4865E5273F0F7200E64659 /* SceneDelegate.swift */,
 				3F4865E7273F0F7200E64659 /* ViewController.swift */,
+				3F486613273F19DE00E64659 /* UIView.swift */,
 				3F4865E9273F0F7200E64659 /* Main.storyboard */,
 				3F4865EC273F0F7F00E64659 /* Assets.xcassets */,
 				3F4865EE273F0F7F00E64659 /* LaunchScreen.storyboard */,
 				3F4865F1273F0F7F00E64659 /* Info.plist */,
-				3F486613273F19DE00E64659 /* UIView.swift */,
 			);
 			path = "Auto-Layout";
 			sourceTree = "<group>";
