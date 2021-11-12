@@ -16,6 +16,7 @@
 		3F4865FB273F0F8100E64659 /* Auto_LayoutTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F4865FA273F0F8100E64659 /* Auto_LayoutTests.swift */; };
 		3F486605273F0F8100E64659 /* Auto_LayoutUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F486604273F0F8100E64659 /* Auto_LayoutUITests.swift */; };
 		3F486607273F0F8100E64659 /* Auto_LayoutUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F486606273F0F8100E64659 /* Auto_LayoutUITestsLaunchTests.swift */; };
+		3F486614273F19DE00E64659 /* UIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F486613273F19DE00E64659 /* UIView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		3F486600273F0F8100E64659 /* Auto-LayoutUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Auto-LayoutUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3F486604273F0F8100E64659 /* Auto_LayoutUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Auto_LayoutUITests.swift; sourceTree = "<group>"; };
 		3F486606273F0F8100E64659 /* Auto_LayoutUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Auto_LayoutUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		3F486613273F19DE00E64659 /* UIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				3F4865EC273F0F7F00E64659 /* Assets.xcassets */,
 				3F4865EE273F0F7F00E64659 /* LaunchScreen.storyboard */,
 				3F4865F1273F0F7F00E64659 /* Info.plist */,
+				3F486613273F19DE00E64659 /* UIView.swift */,
 			);
 			path = "Auto-Layout";
 			sourceTree = "<group>";
@@ -258,6 +261,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3F486614273F19DE00E64659 /* UIView.swift in Sources */,
 				3F4865E8273F0F7200E64659 /* ViewController.swift in Sources */,
 				3F4865E4273F0F7200E64659 /* AppDelegate.swift in Sources */,
 				3F4865E6273F0F7200E64659 /* SceneDelegate.swift in Sources */,
